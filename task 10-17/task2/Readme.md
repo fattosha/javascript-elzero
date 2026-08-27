@@ -1,25 +1,20 @@
-Task 2 — JavaScript Styling
+Task 2 — Element & Object Type
 
-A simple JavaScript task demonstrating 3 ways to style and display "Elzero":
-
-- "console.log()" with "%c"
-- "document.write()"
-- "document.createElement()"
-
----
-
-Preview
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2500&pause=700&center=true&vCenter=true&width=650&lines=JavaScript+DOM;Element+Properties;Object+Type" alt="Typing Animation">
+</p><p align="center">
+  A JavaScript task demonstrating how to access an element's<br>
+  <b>innerHTML</b> and identify its type using <b>typeof</b>.
+</p><hr>Preview
 
 <p align="center">
   <img src="previewtask2.png" width="500">
-</p>---
+</p><hr>Concepts
 
- Concepts
+"innerHTML" • "typeof" • DOM • JavaScript Objects
 
-"%c" • "document.write()" • "createElement()" • DOM • CSS Styling
-
----
-
-<p align="center">
-  <b> Built with JavaScript • Styled with CSS  fattosh</b>
+<hr><p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2" width="80%">
+</p><p align="center">
+  <i>JavaScript → DOM → Element → Object</i>
 </p>
