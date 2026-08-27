@@ -21,5 +21,5 @@ Preview
 ---
 
 <p align="center">
-  <b> Built with JavaScript • Styled with CSS • Keep Learning & Building ✨</b>
+  <b> Built with JavaScript • Styled with CSS  fattosh</b>
 </p>
