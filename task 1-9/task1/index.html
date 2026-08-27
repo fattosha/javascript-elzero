@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="assets/css/bootstrap.min.css">
+    <link rel="stylesheet" href="assets/css/style.css">
+
+    <title>task1jselzero</title>
+</head>
+
+<body>
+    <!DOCTYPE html>
+    <html lang="en">
+
+    <head>
+        <meta charset="UTF-8" />
+        <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+        <title>Learn JavaScript</title>
+        <script>
+            // Code One
+            document.getElementById("el").style.color = "red";
+            /*code one won't be excuted as js file will run before html file so it will return null causing an error  */
+        </script>
+        <script>
+            // Code Two
+            window.onload = function() {
+                document.getElementById("el").style.color = "red";
+            }; /*code 2 will be excuted as onload waits untill html file so it will return exact element and change its color to red   */
+        </script>
+    </head>
+
+    <body>
+        <h1 id="el">Page Title</h1>
+        <script>
+            // Code Three
+            document.getElementById("el").style.color = "red";
+            /*code 3 will be excuted as element is defined before getting it normally  */
+        </script>
+    </body>
+
+    </html>
+</body>
+
+</html>
