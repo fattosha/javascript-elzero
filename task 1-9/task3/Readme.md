@@ -5,19 +5,20 @@ Task 3 — Console Styling
 </p><p align="center">
   A JavaScript task demonstrating the <b>%c</b> CSS directive<br>
   to style different parts of a message inside the browser console.
-</p>---
+</p>
+<hr>
 
 Preview
 
 <p align="center">
   <img src="previewtask3.png" width="500">
-</p>---
+</p><hr>
 
 Concepts
 
 "console.log()" • "%c" CSS Directive • CSS Styling • Console Output
 
----
+<hr>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2" width="80%">
