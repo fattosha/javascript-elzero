@@ -5,10 +5,6 @@ Task 2 — Element & Object Type
 </p><p align="center">
   A JavaScript task demonstrating how to access an element's<br>
   <b>innerHTML</b> and identify its type using <b>typeof</b>.
-</p><hr>Preview
-
-<p align="center">
-  <img src="previewtask2.png" width="500">
 </p><hr>Concepts
 
 "innerHTML" • "typeof" • DOM • JavaScript Objects
