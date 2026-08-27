@@ -1,25 +1,20 @@
-Task 2 — JavaScript Styling
+Task 1 — Arithmetic Operators
 
-A simple JavaScript task demonstrating 3 ways to style and display "Elzero":
+A simple JavaScript task focused on using Arithmetic Operators to replace the missing operators and produce the expected result "0".
 
-- "console.log()" with "%c"
-- "document.write()"
-- "document.createElement()"
+Code
 
----
+// Replace ? With Arithmetic Operators
+console.log(10 * 20 * 15 % 3 / 190 / 10 / 400); // 0
 
-Preview
+Concepts Used
 
-<p align="center">
-  <img src="previewtask2.png" width="500">
-</p>---
+- Multiplication "*"
+- Modulus "%"
+- Division "/"
+- Arithmetic operations
+- Operator precedence
 
- Concepts
+Result
 
-"%c" • "document.write()" • "createElement()" • DOM • CSS Styling
-
----
-
-<p align="center">
-  <b> Built with JavaScript • Styled with CSS  fattosh</b>
-</p>
+0
