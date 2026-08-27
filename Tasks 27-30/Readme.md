@@ -5,7 +5,7 @@ JavaScript Tasks
 </p><p align="center">
   <img src="https://img.shields.io/badge/JavaScript-ES6+-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/Tasks-2-58A6FF?style=for-the-badge" />
-</p>---
+</p><hr>
 
 Tasks
 
@@ -17,11 +17,11 @@ charAt() | index | slice() | substring() | at() | repeat()
 Task 02
 String Checking
 includes() | startsWith() | endsWith()
-</pre>---
+</pre><hr>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2000&pause=500&color=58A6FF&center=true&vCenter=true&width=650&lines=Learning+JavaScript+Step+by+Step;Understanding+Strings;Practicing+String+Methods;Building+a+Strong+Foundation" />
-</p>---
+</p><hr>
 
 Structure
 
@@ -29,10 +29,10 @@ Structure
 JavaScript-Tasks/
 │
 ├── Task-01/
-│   └── script.js
+│   └── plugin.js
 │
 ├── Task-02/
-│   └── script.js
+│   └── plugin.js
 │
 └── README.md
 </pre>---
