@@ -1,25 +1,25 @@
-Task 2 — JavaScript Styling
-
-A simple JavaScript task demonstrating 3 ways to style and display "Elzero":
-
-- "console.log()" with "%c"
-- "document.write()"
-- "document.createElement()"
-
----
-
-Preview
+Task 5 — JavaScript Number.isInteger
 
 <p align="center">
-  <img src="previewtask2.png" width="500">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2500&pause=800&center=true&vCenter=true&width=450&lines=JavaScript+Number.isInteger;Task+5" />
 </p>---
 
- Concepts
+About
 
-"%c" • "document.write()" • "createElement()" • DOM • CSS Styling
+Checking whether a number is an integer using "Number.isInteger()".
 
----
+Concepts
+
+- "Number.isInteger()"
+- Boolean values
+- Boolean arithmetic
+
+Output
+
+2
+
+"true + true = 2"
 
 <p align="center">
-  <b> Built with JavaScript • Styled with CSS  fattosh</b>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2000&pause=500&center=true&vCenter=true&width=350&lines=Task+5+Completed" />
 </p>
