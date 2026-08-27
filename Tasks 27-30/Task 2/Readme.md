@@ -1,4 +1,4 @@
-https://img.shields.io/badge/Task-1%2F30-58A6FF?style=flat-squareJavaScript Task 1
+Task 2
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=2200&pause=700&color=58A6FF&center=true&vCenter=true&width=600&lines=String+Methods;includes();startsWith();endsWith();Task+1%2F30" />
