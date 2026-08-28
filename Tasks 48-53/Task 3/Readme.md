@@ -14,7 +14,7 @@ Concepts
 - Template literals
 
 Output
-
+<pre>
 1
 -- 2
 -- 4
@@ -32,4 +32,4 @@ Output
 -- 4
 6
 -- 2
--- 4
+-- 4</pre>
