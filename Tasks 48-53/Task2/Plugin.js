@@ -13,7 +13,7 @@ let stop = 3;
 03
 
 for (let i = start; i >= stop; i--) {
-  if (i < 10) {
+  if (i < start) {
     console.log(`0${i}`);
   } else {
     console.log(`${i}`);
