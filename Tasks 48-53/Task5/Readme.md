@@ -15,13 +15,13 @@ Concepts
 - Array indexing
 
 Output
-
+<pre>
 1 => Sayed
 2 => Eman
 3 => Mahmoud
 4 => Osama
 5 => Sameh
-
+</pre>
 Note
 
 After using "splice()", "i--" is needed so the next element that shifts into the current index is not skipped.
