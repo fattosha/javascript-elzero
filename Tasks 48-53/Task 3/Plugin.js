@@ -25,7 +25,7 @@ let breaker = 2;
 for (let i = start; i <= end; i++) {
   console.log(i);
 
-  for (let j = breaker; j < end; j += 2) {
+  for (let j = breaker; j < end; j += breaker) {
     console.log(`-- ${j}`);
   }
 }
