@@ -29,10 +29,9 @@ Nested Functions
   getDetails()
 ├── namePattern()
 ├── ageWithMessage()
-├── countryTwoLet
-</pre>
-ters()
+├── countryTwoLetters()
 └── fullDetails()
+</pre>
 
 الـ inner functions موجودة داخل "getDetails()"، لذلك يمكن لـ "getDetails()" استخدامها، لكن لا يمكن استدعاؤها مباشرة من خارجها.
 
