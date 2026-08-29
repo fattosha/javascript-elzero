@@ -25,11 +25,13 @@ String → split() → Array
 Array  → join()  → String
 
 Nested Functions
-
-getDetails()
+<pre>
+  getDetails()
 ├── namePattern()
 ├── ageWithMessage()
-├── countryTwoLetters()
+├── countryTwoLet
+</pre>
+ters()
 └── fullDetails()
 
 الـ inner functions موجودة داخل "getDetails()"، لذلك يمكن لـ "getDetails()" استخدامها، لكن لا يمكن استدعاؤها مباشرة من خارجها.
