@@ -1,31 +1,39 @@
-JavaScript Task — Arrow Functions
+JavaScript Task
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2500&pause=700&center=true&vCenter=true&width=700&lines=Arrow+Functions;Implicit+Return;Function+Expressions" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=2500&pause=700&center=true&vCenter=true&width=600&lines=Arrow+Functions;Keep+Coding" />
 </p>Task
 
-Convert the normal functions into Arrow Functions while keeping the same output.
+Convert the normal functions into Arrow Functions.
 
-Arrow Function
+let itsMe = () => `Iam A Normal Function`;
 
-بدل:
+let urlCreate = (protocol, web, tld) =>
+  `${protocol}://www.${web}.${tld}`;
 
-function itsMe() {
-  return `Iam A Normal Function`;
+Note
+
+استخدمنا Implicit Return لأن الـ Arrow Function فيها expression واحد، فمش محتاجين نكتب "return".
+
+() => `Hello`
+
+لكن لو استخدمنا "{}" لازم نكتب "return":
+
+() => {
+  return `Hello`;
 }
 
-استخدمنا:
+Output
 
-let itsMe = () => `Iam A Normal Function`;
+Iam A Normal Function
+https://www.elzero.org
 
-Important — Return
+Learned
 
-في الـ Arrow Function عندنا طريقتين:
-
-Implicit Return
-
-let itsMe = () => `Iam A Normal Function`;
-
+- Arrow Functions
+- Function Expressions
+- Implicit Return
+- Template Literals
 لما مفيش "{}"، الـ expression بيرجع تلقائيًا، لذلك مش بنكتب "return".
 
 Explicit Return
